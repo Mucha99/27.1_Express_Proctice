@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "name": "27.1_Express_Proctice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Mucha99/27.1_Express_Proctice.git",
+  "author": "Bartek Mucha <bartekmucha43@gmail.com>",
+  "license": "MIT"
+}
